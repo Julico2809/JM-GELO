@@ -2,11 +2,6 @@ console.log("login.js carregado com sucesso");
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("loginForm");
-  if (!form) {
-    console.error("Formulário de login não encontrado!");
-    return;
-  }
-
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     const user = document.getElementById("usuario").value;
