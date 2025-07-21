@@ -1,1 +1,1 @@
-<!-- Arquivo: gelinho.js do sistema JM Gelo -->
+// Script funcional: gelinho.js

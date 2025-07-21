@@ -1,1 +1,1 @@
-<!-- Arquivo: whatsapp.js do sistema JM Gelo -->
+// Script funcional: whatsapp.js

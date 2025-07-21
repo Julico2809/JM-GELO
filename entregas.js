@@ -1,1 +1,1 @@
-<!-- Arquivo: entregas.js do sistema JM Gelo -->
+// Script funcional: entregas.js

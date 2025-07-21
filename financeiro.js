@@ -1,1 +1,1 @@
-<!-- Arquivo: financeiro.js do sistema JM Gelo -->
+// Script funcional: financeiro.js

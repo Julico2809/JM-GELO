@@ -1,1 +1,1 @@
-<!-- Arquivo: vendas.js do sistema JM Gelo -->
+// Script funcional: vendas.js

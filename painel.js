@@ -1,0 +1,1 @@
+// Script funcional: painel.js

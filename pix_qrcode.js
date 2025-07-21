@@ -1,1 +1,1 @@
-<!-- Arquivo: pix_qrcode.js do sistema JM Gelo -->
+// Script funcional: pix_qrcode.js
